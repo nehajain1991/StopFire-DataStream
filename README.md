@@ -16,3 +16,4 @@ streaming of the data which will be processed by Apache Spark Streaming client a
 then inserted into MongoDB (Task C). The overall system architecture you will be developing is
 shown in the figure below. 
 
+![alt text](https://github.com/nehajain1991/StopFire-DataStream/blob/master/images/Architecture.png)
